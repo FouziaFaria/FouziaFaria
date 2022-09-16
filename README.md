@@ -36,11 +36,11 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/html.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/fouziafaria/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/github.svg"/></a>
+<a href = 'https://medium.com/@fouziafaria'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/medium.svg"/></a> 
+<a href = 'https://fouzia.bukharealsaif.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/portfolio.png"/></a> 
+<a href = 'https://github.com/FouziaFaria'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/FouziaFaria/FouziaFaria/main/github.svg"/></a>
   
 <br>
 <br>
@@ -55,4 +55,3 @@
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <br>
-
